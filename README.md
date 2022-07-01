@@ -1,2 +1,2 @@
 # sudoku_solver
- Sudoku solver
+This repository contains a sudoku solver from scratch without using any libraries
